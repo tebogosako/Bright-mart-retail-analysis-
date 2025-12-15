@@ -1,4 +1,4 @@
-# Data-Analytics
+# Bright Mart Sales Analysis
 
 Bright Mart Retail – Data Analytics Project
 
